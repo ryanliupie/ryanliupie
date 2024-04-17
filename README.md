@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Bodybuilding, Muay Thai, Reading**
 
-<h3 align="left">Connect with me:</h3>
+<br>
 <p align="left">
 </p>
 
