@@ -3,7 +3,7 @@
 <hr>
 <img align="right" width ="200" src="https://myhomelab.gr/assets/profile-placeholder.gif">
   
-- 🔭 I’m currently working on my **HomeLab & Website**
+- 🔭 I’m currently working on my **Projects**
 
 - 🌱 I’m currently learning **DevOps**
 
