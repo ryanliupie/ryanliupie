@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **ryanliu314@gmail.com**
 
-- 🎧 My Music [**Spotify**](https://open.spotify.com/user/jameswarrior14?si=80b457a22a654f8a)
-
 <br>
 <p align="left">
 </p>
