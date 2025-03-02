@@ -5,7 +5,7 @@
   
 - 🔭 I’m currently working on my **Projects**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Security**
 
 - 📫 How to reach me **ryanliu314@gmail.com**
 
